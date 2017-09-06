@@ -1,0 +1,16 @@
+html {
+    display: table;
+    margin: auto;
+	margin-top: 4vh;
+	text-align: center;
+}
+
+body {
+    display: table-cell;
+	color: white;
+	background-color: black;
+}
+
+#end {
+	font-size: 250%;
+}

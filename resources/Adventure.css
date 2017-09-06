@@ -1,0 +1,28 @@
+html {
+    display: table;
+    margin: auto;
+	margin-top: 4vh;
+	text-align: center;
+}
+
+body {
+    display: table-cell;
+}
+
+input {
+	width: 260px;
+}
+
+button {
+	padding: 15px 32px;
+}
+
+#textbox {
+	width: 800px;
+	height: 500px;
+}
+
+#entitybox {
+	width: 800px;
+	height: 100px;
+}
