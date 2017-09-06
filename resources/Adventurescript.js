@@ -1724,7 +1724,7 @@ roomArray[24] = new Room(24,
 	{"UP": 23, "DOWN": 25});
 // Making it here ends the game.
 roomArray[25] = new Room(25,
-	"",
+	"The stairs go on and on...",
 	[],
 	[entityArray[9]],
 	{});
